@@ -31,61 +31,23 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🧰 Technical Skills
 
-<p>
-  <img
-    src="https://img.icons8.com/color/58/power-bi.png"
-    alt="Power BI Desktop"
-    title="Power BI Desktop"
-  />
-  
-  <img
-    src="https://img.icons8.com/color/58/power-bi.png"
-    alt="Power BI Service"
-    title="Power BI Service"
-  />
+![Power BI Desktop](https://img.shields.io/badge/MICROSOFT-POWER%20BI%20DESKTOP-F2C811?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png"
-    alt="Microsoft Excel"
-    title="Microsoft Excel"
-  />
+![Power BI Service](https://img.shields.io/badge/MICROSOFT-POWER%20BI%20SERVICE-F2C811?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    alt="MySQL"
-    title="MySQL"
-  />
+![Excel](https://img.shields.io/badge/MICROSOFT-EXCEL-217346?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://img.icons8.com/color/58/microsoft-sql-server.png"
-    alt="SQL Server Management Studio"
-    title="SQL Server Management Studio"
-  />
+![MySQL](https://img.shields.io/badge/DATABASE-MYSQL-4479A1?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://skillicons.dev/icons?i=python"
-    alt="Python"
-    title="Python"
-  />
+![SQL Server Management Studio](https://img.shields.io/badge/MICROSOFT-SQL%20SERVER%20MANAGEMENT%20STUDIO-CC2927?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    alt="GitHub"
-    title="GitHub"
-  />
+![Python](https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&labelColor=454545)
 
-  <img
-    src="https://skillicons.dev/icons?i=vscode"
-    alt="Visual Studio Code"
-    title="Visual Studio Code"
-  />
-</p>
+![GitHub](https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-181717?style=for-the-badge&labelColor=454545)
 
-<p>
-  <strong>
-    Power BI Desktop · Power BI Service · Excel · MySQL · SQL Server Management Studio · Python · GitHub · Visual Studio Code · DAX Studio
-  </strong>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/CODE%20EDITOR-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&labelColor=454545)
+
+![DAX Studio](https://img.shields.io/badge/ANALYSIS%20TOOL-DAX%20STUDIO-139BAB?style=for-the-badge&labelColor=454545)
 ---
 
 ## 📜 Certification
