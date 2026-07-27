@@ -31,43 +31,61 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🧰 Technical Skills
 
-### 👉 Data Visualization & Reporting
-
 <p>
-  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI Desktop" title="Power BI Desktop"/>
-  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI Service" title="Power BI Service"/>
-  <img src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
+  <img
+    src="https://img.icons8.com/color/58/power-bi.png"
+    alt="Power BI Desktop"
+    title="Power BI Desktop"
+  />
+  
+  <img
+    src="https://img.icons8.com/color/58/power-bi.png"
+    alt="Power BI Service"
+    title="Power BI Service"
+  />
+
+  <img
+    src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png"
+    alt="Microsoft Excel"
+    title="Microsoft Excel"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=mysql"
+    alt="MySQL"
+    title="MySQL"
+  />
+
+  <img
+    src="https://img.icons8.com/color/58/microsoft-sql-server.png"
+    alt="SQL Server Management Studio"
+    title="SQL Server Management Studio"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=python"
+    alt="Python"
+    title="Python"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    alt="GitHub"
+    title="GitHub"
+  />
+
+  <img
+    src="https://skillicons.dev/icons?i=vscode"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+  />
 </p>
 
 <p>
-  <strong>Power BI Desktop · Power BI Service · Excel · Power Query · DAX</strong>
+  <strong>
+    Power BI Desktop · Power BI Service · Excel · MySQL · SQL Server Management Studio · Python · GitHub · Visual Studio Code · DAX Studio
+  </strong>
 </p>
-
-### 👉 Databases & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
-  <img src="https://img.icons8.com/color/58/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
-</p>
-
-<p>
-  <strong>Python · MySQL · SQL Server · SQL</strong>
-</p>
-
-### 👉 Development & Analysis Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="GitHub, Git and VS Code"/>
-</p>
-
-<p>
-  <strong>GitHub · Git · Visual Studio Code · DAX Studio</strong>
-</p>
-
-### 👉 Additional Skills
-
-`Data Cleaning` · `Data Modeling` · `Dashboard Design` · `Data Visualization` · `Data Storytelling`
-
 ---
 
 ## 📜 Certification
