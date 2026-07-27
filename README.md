@@ -51,16 +51,16 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🎯 Analytical & Professional Skills
 
-- 📊 Data storytelling
-- 🎨 Dashboard design
-- 🧠 Critical thinking
-- 🧩 Problem-solving
-- 💼 Business understanding
-- 🗣️ Clear communication
-- 🔍 Attention to detail
-- 🤝 Collaboration and teamwork
-- ⏱️ Time management
-- 🌱 Continuous learning
+- Data storytelling
+- Dashboard design
+- Critical thinking
+- Problem-solving
+- Business understanding
+- Clear communication
+- Attention to detail
+- Collaboration and teamwork
+- Time management
+- Continuous learning
 
 ## 📜 Certification
 
