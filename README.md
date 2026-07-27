@@ -67,7 +67,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ### Microsoft Certified: Power BI Data Analyst Associate
 
-**Microsoft**  
 Credential ID: `9D1593F91E17C1E8`  
 
 [View Credential](https://learn.microsoft.com/en-us/users/phuongbui-4300/credentials/9d1593f91e17c1e8)
@@ -76,9 +75,8 @@ Credential ID: `9D1593F91E17C1E8`
 
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" align="left">
 
-### Intermediate SQL
+### HackerRank Certified: Intermediate SQL
 
-**HackerRank**  
 Credential ID: `C42FAEB6EABB`  
 
 [View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
@@ -88,8 +86,6 @@ Credential ID: `C42FAEB6EABB`
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="32" align="left">
 
 ### Excel Skills for Business: Intermediate I
-
-**Excel**   
 
 [View Credential](https://coursera.org/share/0f818a9fe57241e226cf797eb67e43ce)
 
