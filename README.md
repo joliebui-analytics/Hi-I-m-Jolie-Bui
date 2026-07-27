@@ -64,29 +64,24 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 <img src="https://img.icons8.com/color/48/microsoft.png" width="32" align="left">
 
 ### Microsoft Certified: Power BI Data Analyst Associate
 
 **Microsoft**  
-Issued July 2026 · Expires July 2027  
 Credential ID: `9D1593F91E17C1E8`
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white)](YOUR_MICROSOFT_CREDENTIAL_LINK)
+[![View Credential](https://img.shields.io/badge/View%20Credential-0078D4?style=flat-square&logo=microsoft&logoColor=white)]([YOUR_MICROSOFT_CREDENTIAL_LINK](https://learn.microsoft.com/en-us/users/phuongbui-4300/credentials/9d1593f91e17c1e8?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 
----
 
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" align="left">
 
 ### Intermediate SQL
 
-**HackerRank**  
-Issued October 2025  
+**HackerRank**   
 Credential ID: `C42FAEB6EABB`
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](YOUR_HACKERRANK_CREDENTIAL_LINK)
+[![View Credential](https://img.shields.io/badge/View%20Credential-00EA64?style=flat-square&logo=hackerrank&logoColor=black)]([YOUR_HACKERRANK_CREDENTIAL_LINK](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb))
 ---
 
 ## 🤝 Let's Connect
