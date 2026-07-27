@@ -85,6 +85,36 @@ Credential ID: `C42FAEB6EABB`
 
 <br>
 
+## 📁 Featured Projects
+
+### 🍬 Candy Distribution & Shipping Analysis
+
+Analyzed sales, profitability, shipping distance, factory coverage, and distribution performance using an interactive Power BI dashboard.
+
+**Tools:** Power BI · SQL · Power Query · DAX · Data Modeling
+
+[View Project Files](YOUR_GITHUB_PROJECT_LINK) · [View Interactive Dashboard](YOUR_POWER_BI_LINK)
+
+---
+
+### 🚲 Adventure Works Sales Analysis
+
+Explored sales, product, customer, and regional performance to identify growth patterns and business opportunities.
+
+**Tools:** Power BI · Power Query · DAX · Data Modeling
+
+[View Project Files](YOUR_GITHUB_PROJECT_LINK) · [View Interactive Dashboard](YOUR_POWER_BI_LINK)
+
+---
+
+### 👥 Employee Engagement Survey Analysis
+
+Analyzed employee survey responses to identify engagement strengths, performance gaps, and priority areas for leadership action.
+
+**Tools:** Excel · Power Query · Data Cleaning · Data Visualization
+
+[View Project Files](YOUR_GITHUB_PROJECT_LINK)
+
 ## 🤝 Let's Connect
 
 <div align="center">
