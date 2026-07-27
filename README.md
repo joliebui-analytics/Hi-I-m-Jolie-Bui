@@ -83,7 +83,9 @@ Credential ID: `C42FAEB6EABB`
 
 [View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
 
-## 📁 Projects
+## 📁 Featured Projects
+
+<table>
 
 <td width="33%" align="center">
 
@@ -135,6 +137,8 @@ Credential ID: `C42FAEB6EABB`
 <a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
 
 </td>
+
+</table>
 
 ## 🤝 Let's Connect
 
