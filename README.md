@@ -85,60 +85,27 @@ Credential ID: `C42FAEB6EABB`
 
 ## 📁 Featured Projects
 
-<table>
+<p align="center">
+  <a href="YOUR_CANDY_DASHBOARD_LINK">
+    <img src="images/candy-dashboard.png" width="32%" alt="Candy Distribution Dashboard">
+  </a>
+  
+  <a href="YOUR_ADVENTURE_WORKS_LINK">
+    <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works Dashboard">
+  </a>
+  
+  <a href="YOUR_EMPLOYEE_DASHBOARD_LINK">
+    <img src="images/employee-dashboard.png" width="32%" alt="Employee Engagement Dashboard">
+  </a>
+</p>
 
-<td width="33%" align="center">
-
-### 🍬 Candy Distribution
-
-<a href="YOUR_POWER_BI_LINK">
-  <img src="images/candy-dashboard.png" width="100%" alt="Candy Distribution Dashboard">
-</a>
-
-<strong>Power BI · SQL · DAX</strong>
-
-<br><br>
-
-<a href="YOUR_POWER_BI_LINK">Interactive Dashboard</a> ·
-<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚲 Adventure Works
-
-<a href="YOUR_POWER_BI_LINK">
-  <img src="images/adventure-works-dashboard.png" width="100%" alt="Adventure Works Dashboard">
-</a>
-
-<strong>Power BI · Power Query · DAX</strong>
-
-<br><br>
-
-<a href="YOUR_POWER_BI_LINK">Interactive Dashboard</a> ·
-<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 👥 Employee Engagement
-
-<a href="YOUR_DASHBOARD_LINK">
-  <img src="images/employee-dashboard.png" width="100%" alt="Employee Engagement Dashboard">
-</a>
-
-<strong>Excel · Power Query · Visualization</strong>
-
-<br><br>
-
-<a href="YOUR_DASHBOARD_LINK">View Dashboard</a> ·
-<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
-
-</td>
-
-</table>
+<p align="center">
+  <a href="YOUR_CANDY_DASHBOARD_LINK"><strong>Candy Distribution</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_ADVENTURE_WORKS_LINK"><strong>Adventure Works</strong></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_EMPLOYEE_DASHBOARD_LINK"><strong>Employee Engagement</strong></a>
+</p>
 
 ## 🤝 Let's Connect
 
