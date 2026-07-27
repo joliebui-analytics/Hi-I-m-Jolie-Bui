@@ -89,7 +89,7 @@ Credential ID: `C42FAEB6EABB`
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/jolie-bui/)">
   <img
     src="https://img.icons8.com/bubbles/100/linkedin.png"
     width="65"
