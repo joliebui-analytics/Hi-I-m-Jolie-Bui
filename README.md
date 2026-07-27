@@ -90,7 +90,7 @@ Credential ID: `C42FAEB6EABB`
     <img src="images/candy-dashboard.png" width="32%" alt="Supply Chain Shipping">
   </a>
   
-  <a href="YOUR_ADVENTURE_WORKS_LINK">
+  <a href=["YOUR_ADVENTURE_WORKS_LINK"](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e)>
     <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works">
   </a>
   
