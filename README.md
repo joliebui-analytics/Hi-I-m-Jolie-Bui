@@ -115,7 +115,7 @@ Credential ID: `C42FAEB6EABB`
 
 <br>
 
-### Thanks for visiting my profile! 📊
+### Thanks for visiting my profile!
 
 </div>
 
