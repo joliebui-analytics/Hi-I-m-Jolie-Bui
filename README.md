@@ -7,6 +7,14 @@
        alt="Waving hand">
 </h1>
 
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=3000&pause=1000&color=139BAB&center=true&vCenter=true&width=650&lines=Entry-Level+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+Into+Meaningful+Insights"
+    alt="Typing animation">
+</a>
+
+</div>
+
 ### Data Visualization Specialist | Data Analyst | Power BI | Excel | SQL | Python 
 
 As an aspiring Data Analyst, I have developed practical skills in data cleaning, analysis, visualization, and reporting using Power BI, SQL, and Excel. My portfolio projects focus on transforming raw data into clear dashboards, identifying meaningful trends, and providing practical recommendations for real-world business scenarios. I am eager to apply my analytical skills and fresh perspective in the data analytics field.
