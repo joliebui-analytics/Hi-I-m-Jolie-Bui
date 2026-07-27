@@ -34,22 +34,39 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 ### 👉 Data Visualization & Reporting
 
 <p>
-  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png" alt="Excel"/>
+  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI Desktop" title="Power BI Desktop"/>
+  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI Service" title="Power BI Service"/>
+  <img src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png" alt="Excel" title="Excel"/>
 </p>
 
-### 👉 Programming & Databases
+<p>
+  <strong>Power BI Desktop · Power BI Service · Excel · Power Query · DAX</strong>
+</p>
+
+### 👉 Databases & Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
-  <img src="https://img.icons8.com/color/58/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/58/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
 </p>
 
-### 👉 Version Control & Software
+<p>
+  <strong>Python · MySQL · SQL Server · SQL</strong>
+</p>
+
+### 👉 Development & Analysis Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="GitHub, Git and VS Code"/>
 </p>
+
+<p>
+  <strong>GitHub · Git · Visual Studio Code · DAX Studio</strong>
+</p>
+
+### 👉 Additional Skills
+
+`Data Cleaning` · `Data Modeling` · `Dashboard Design` · `Data Visualization` · `Data Storytelling`
 
 ---
 
