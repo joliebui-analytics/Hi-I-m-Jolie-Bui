@@ -83,35 +83,64 @@ Credential ID: `C42FAEB6EABB`
 
 [View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
 
-## 📁 Featured Projects
+## 📁 Projects
 
-### 🍬 Candy Distribution Analysis
+<table>
+<tr>
 
-[![Candy Distribution Dashboard](images/candy-dashboard.png)](YOUR_POWER_BI_LINK)
+<td width="33%" align="center">
 
-**Power BI · SQL · DAX**
+### 🍬 Candy Distribution
 
-[View Interactive Dashboard](YOUR_POWER_BI_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
+<a href="YOUR_POWER_BI_LINK">
+  <img src="images/candy-dashboard.png" width="100%" alt="Candy Distribution Dashboard">
+</a>
 
----
+<strong>Power BI · SQL · DAX</strong>
 
-### 🚲 Adventure Works Analysis
+<br><br>
 
-[![Adventure Works Dashboard](images/adventure-works-dashboard.png)](YOUR_POWER_BI_LINK)
+<a href="YOUR_POWER_BI_LINK">Interactive Dashboard</a> ·
+<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
 
-**Power BI · Power Query · DAX**
+</td>
 
-[View Interactive Dashboard](YOUR_POWER_BI_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
+<td width="33%" align="center">
 
----
+### 🚲 Adventure Works
 
-### 👥 Employee Engagement Analysis
+<a href="YOUR_POWER_BI_LINK">
+  <img src="images/adventure-works-dashboard.png" width="100%" alt="Adventure Works Dashboard">
+</a>
 
-[![Employee Engagement Dashboard](images/employee-dashboard.png)](YOUR_DASHBOARD_LINK)
+<strong>Power BI · Power Query · DAX</strong>
 
-**Excel · Power Query · Data Visualization**
+<br><br>
 
-[View Dashboard](YOUR_DASHBOARD_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
+<a href="YOUR_POWER_BI_LINK">Interactive Dashboard</a> ·
+<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 👥 Employee Engagement
+
+<a href="YOUR_DASHBOARD_LINK">
+  <img src="images/employee-dashboard.png" width="100%" alt="Employee Engagement Dashboard">
+</a>
+
+<strong>Excel · Power Query · Visualization</strong>
+
+<br><br>
+
+<a href="YOUR_DASHBOARD_LINK">View Dashboard</a> ·
+<a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 🤝 Let's Connect
 
