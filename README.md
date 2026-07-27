@@ -91,6 +91,7 @@ Credential ID: `C42FAEB6EABB`
     width="30%"
     alt="Sales and Distribution Dashboard">
 </a>
+#### 👉 **[Supply Chain Shipping Project](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9)**
 
 ## 🤝 Let's Connect
 
