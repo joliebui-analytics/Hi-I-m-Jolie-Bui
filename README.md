@@ -29,7 +29,7 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 - 🌱 Continuously learning new tools and strengthening my technical, analytical, and data storytelling skills
 - 🚀 Working toward becoming a well-rounded Data Analyst who can transform data into effective reporting solutions and support informed business decisions
 
-<h2>🧰 Technical Skills</h2>
+## 🧰 Technical Skills
 
 <h3>📊 Data Visualization</h3>
 
