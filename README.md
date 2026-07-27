@@ -1,1 +1,83 @@
-# Hi-I-m-Jolie-Bui
+<div align="center">
+
+# Hi, I'm Jolie Bui 👋
+
+### Entry-Level Data Analyst | Power BI • SQL • Excel
+
+I turn raw data into clear dashboards, practical insights, and business recommendations.
+
+Microsoft PL-300 certified and building a portfolio focused on  
+**data visualization, reporting, and business intelligence.**
+
+</div>
+
+---
+
+## 📊 About Me
+
+- 📍 Based in Edmonton, Alberta, Canada
+- 🎓 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- 💼 Seeking entry-level Data Analyst, Reporting Analyst, and Power BI Developer roles
+- 📈 Strengthening my SQL, data modeling, DAX, and dashboard storytelling skills
+- 📁 Building business-focused data analytics portfolio projects
+
+---
+
+## 🧰 Technical Skills
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Data Analysis and Querying
+
+![SQL](https://img.shields.io/badge/SQL-139BAB?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-172B4D?style=for-the-badge&logo=powerbi&logoColor=white)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI Service](https://img.shields.io/badge/Power%20BI%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [Adventure Works Sales Analysis](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Analyzed sales, profit, product performance, customers, and regional trends. | Power BI, DAX, Data Modeling |
+| [Candy Distribution and Shipping Analysis](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Evaluated factory coverage, shipping distances, revenue, profit, and delivery performance. | Power BI, SQL, Geospatial Analysis |
+| [Employee Engagement Survey](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Cleaned survey data and identified engagement strengths, weaknesses, and department-level priorities. | Excel, Data Cleaning, Business Analysis |
+
+---
+
+## 📜 Certification
+
+<a href="YOUR_MICROSOFT_CREDENTIAL_LINK">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=microsoft&logoColor=black">
+</a>
+
+**Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-139BAB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 📊
+
+</div>
