@@ -85,14 +85,12 @@ Credential ID: `C42FAEB6EABB`
 
 ## 📁 Featured Projects
 
-<a href="https://app.powerbi.com/view?r=YOUR_POWER_BI_LINK">
+<a href="YOUR_POWER_BI_LINK">
   <img
-    src="Images/Sales_and_Distribution_Overview.png"
+    src="https://raw.githubusercontent.com/joliebui-analytics/Supply-Chain-Shipping/main/Images/Sales_and_Distribution_Overview.png"
     width="30%"
     alt="Sales and Distribution Overview">
 </a>
-
-![Sales and Distribution Overview](Images/Sales_and_Distribution_Overview.png)
 
 #### 👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9)**
 
