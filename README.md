@@ -64,8 +64,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 <img src="https://img.icons8.com/color/48/microsoft.png" width="32" align="left">
 
 ### Microsoft Certified: Power BI Data Analyst Associate
@@ -76,8 +74,6 @@ Credential ID: `9D1593F91E17C1E8`
 [View Credential](https://learn.microsoft.com/en-us/users/phuongbui-4300/credentials/9d1593f91e17c1e8)
 
 <br>
-
----
 
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="32" align="left">
 
