@@ -1,6 +1,11 @@
 <div align="center">
 
-# Hi, I'm Jolie Bui 👋
+<h1>
+  Hi, I'm Jolie Bui
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+       width="35px"
+       alt="Waving hand">
+</h1>
 
 ### Data Visualization Specialist | Data Analyst | Power BI | Excel | SQL | Python 
 
