@@ -21,12 +21,14 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 📊 About Me
 
-- 📍 Based in Edmonton, Alberta, Canada
-- 🎓 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- 💼 Seeking entry-level Data Analyst, Reporting Analyst, and Power BI Developer roles
-- 📈 Strengthening my SQL, data modeling, DAX, and dashboard storytelling skills
-- 📁 Building business-focused data analytics portfolio projects
+## 📊 About Me
 
+- 🔍 Driven to uncover meaningful patterns, trends, and opportunities within data
+- 📊 Enjoy transforming raw data into clear dashboards and meaningful business insights
+- 🛠️ Developing practical skills in Power BI, Excel, SQL, and Python
+- 🌱 Always willing to learn new tools, techniques, and analytical approaches
+- 🚀 Committed to strengthening my technical, problem-solving, and data storytelling skills
+- 📁 Building hands-on projects that apply data analysis to real-world business questions
 ---
 
 ## 🧰 Technical Skills
