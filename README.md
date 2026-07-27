@@ -94,6 +94,15 @@ Credential ID: `C42FAEB6EABB`
 
 #### 👉 **[Supply Chain Shipping Project](https://github.com/joliebui-analytics/Supply-Chain-Shipping)**
 
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
+  <img
+    src="https://raw.githubusercontent.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard/main/Images/Executive_Overview.png"
+    width="30%"
+    alt="Sales and Distribution Dashboard">
+</a>
+
+#### 👉 **[Adventure Works Project](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)**
+
 ## 🤝 Let's Connect
 
 <div align="center">
