@@ -86,7 +86,7 @@ Credential ID: `C42FAEB6EABB`
 ## 📁 Featured Projects
 
 <p align="center">
-  <a href="<iframe title="Supply_Chain_Shipping_Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9" frameborder="0" allowFullScreen="true"></iframe>">
+  <a href="<iframe title="Supply_Chain_Shipping_Project"https://app.powerbi.com/viewr=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
     <img src="images/candy-dashboard.png" width="32%" alt="Supply Chain Shipping">
   </a>
   
