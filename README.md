@@ -31,72 +31,20 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🧰 Technical Skills
 
-<h3>📊 Data Visualization</h3>
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45">
-      <br><strong>Power BI</strong>
-    </td>
-  </tr>
-</table>
+### 🔍 Data Analysis & Querying
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3>🔍 Data Analysis & Querying</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/96/sql.png" width="45" height="45">
-      <br><strong>SQL</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45">
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45">
-      <br><strong>Excel</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/217346" width="45" height="45">
-      <br><strong>Power Query</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/172B4D" width="45" height="45">
-      <br><strong>DAX</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45">
-      <br><strong>Python</strong>
-    </td>
-  </tr>
-</table>
-
-<h3>🛠️ Tools</h3>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45">
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45">
-      <br><strong>Power BI Service</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📁 Featured Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [Adventure Works Sales Analysis](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Analyzed sales, profit, product performance, customers, and regional trends. | Power BI, DAX, Data Modeling |
-| [Candy Distribution and Shipping Analysis](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Evaluated factory coverage, shipping distances, revenue, profit, and delivery performance. | Power BI, SQL, Geospatial Analysis |
-| [Employee Engagement Survey](https://github.com/YOUR_USERNAME/PROJECT_REPOSITORY) | Cleaned survey data and identified engagement strengths, weaknesses, and department-level priorities. | Excel, Data Cleaning, Business Analysis |
+### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI Service](https://img.shields.io/badge/Power_BI_Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
