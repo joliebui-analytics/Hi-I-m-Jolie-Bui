@@ -19,8 +19,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 </div>
 
----
-
 ## 📊 About Me
 
 - 📍 Based in Edmonton, Alberta, Canada
