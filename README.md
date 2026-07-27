@@ -87,11 +87,11 @@ Credential ID: `C42FAEB6EABB`
 
 <p align="center">
   <a href="YOUR_CANDY_DASHBOARD_LINK">
-    <img src="images/candy-dashboard.png" width="32%" alt="Candy Distribution Dashboard">
+    <img src="images/candy-dashboard.png" width="32%" alt="Supply Chain Shipping">
   </a>
   
   <a href="YOUR_ADVENTURE_WORKS_LINK">
-    <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works Dashboard">
+    <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works">
   </a>
   
 </p>
