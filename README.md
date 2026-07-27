@@ -86,7 +86,7 @@ Credential ID: `9D1593F91E17C1E8`
 **HackerRank**  
 Credential ID: `C42FAEB6EABB`  
 
-[View Credential](YOUR_HACKERRANK_CREDENTIAL_LINK)
+[View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
 
 <br>
 
