@@ -45,7 +45,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ### 👉 Development & Analysis Tools
 
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![DAX Studio](https://img.shields.io/badge/DAX%20STUDIO-139BAB?style=for-the-badge)
 
