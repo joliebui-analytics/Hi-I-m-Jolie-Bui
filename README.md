@@ -94,9 +94,6 @@ Credential ID: `C42FAEB6EABB`
     <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works Dashboard">
   </a>
   
-  <a href="YOUR_EMPLOYEE_DASHBOARD_LINK">
-    <img src="images/employee-dashboard.png" width="32%" alt="Employee Engagement Dashboard">
-  </a>
 </p>
 
 <p align="center">
@@ -104,7 +101,6 @@ Credential ID: `C42FAEB6EABB`
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="YOUR_ADVENTURE_WORKS_LINK"><strong>Adventure Works</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_EMPLOYEE_DASHBOARD_LINK"><strong>Employee Engagement</strong></a>
 </p>
 
 ## 🤝 Let's Connect
