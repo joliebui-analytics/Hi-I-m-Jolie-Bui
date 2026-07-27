@@ -29,20 +29,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 - 🌱 Continuously learning new tools and strengthening my technical, analytical, and data storytelling skills
 - 🚀 Working toward becoming a well-rounded Data Analyst who can transform data into effective reporting solutions and support informed business decisions
 
-## 🧰 Technical Skills
-
-### Data Visualization
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Data Analysis and Querying
-
-![SQL](https://img.shields.io/badge/SQL-139BAB?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-172B4D?style=for-the-badge&logo=powerbi&logoColor=white)
-
 ### Tools
 
 <h2>🧰 Technical Skills</h2>
