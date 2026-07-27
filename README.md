@@ -92,7 +92,7 @@ Credential ID: `C42FAEB6EABB`
     alt="Sales and Distribution Dashboard">
 </a>
 
-####  **[Supply Chain Shipping Project](https://github.com/joliebui-analytics/Supply-Chain-Shipping)**
+#### 👉  **[Supply Chain Shipping Project](https://github.com/joliebui-analytics/Supply-Chain-Shipping)**
 
 ## 🤝 Let's Connect
 
