@@ -85,37 +85,16 @@ Credential ID: `C42FAEB6EABB`
 
 ## 📁 Featured Projects
 
-<p align="center">
+<a href="https://app.powerbi.com/view?r=YOUR_POWER_BI_LINK">
+  <img
+    src="Images/Sales_and_Distribution_Overview.png"
+    width="30%"
+    alt="Sales and Distribution Overview">
+</a>
 
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
-    <img
-      src="Sales_and_Distribution_Overview.png"
-      width="48%"
-      alt="Supply Chain Shipping Dashboard">
-  </a>
+![Sales and Distribution Overview](Images/Sales_and_Distribution_Overview.png)
 
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
-    <img
-      src="Executive_Overview.png"
-      width="48%"
-      alt="Adventure Works Dashboard">
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
-    <strong>Supply Chain Shipping</strong>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
-    <strong>Adventure Works</strong>
-  </a>
-
-</p>
+#### 👉 **[Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9)**
 
 ## 🤝 Let's Connect
 
