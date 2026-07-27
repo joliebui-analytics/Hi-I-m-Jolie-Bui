@@ -31,8 +31,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🧰 Technical Skills
 
-<h2>🧰 Technical Skills</h2>
-
 <h3>📊 Data Visualization</h3>
 
 <table>
