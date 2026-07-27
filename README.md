@@ -2,12 +2,11 @@
 
 # Hi, I'm Jolie Bui 👋
 
-### Entry-Level Data Analyst | Power BI • SQL • Excel
+### Data Visualization Specialist | Data Analyst | Power BI | Excel | SQL | Python 
 
-I turn raw data into clear dashboards, practical insights, and business recommendations.
+I enjoy exploring data, uncovering meaningful patterns, and transforming complex information into clear dashboards and practical business insights.
 
-Microsoft PL-300 certified and building a portfolio focused on  
-**data visualization, reporting, and business intelligence.**
+As a Microsoft PL-300 certified professional, I’m building a portfolio that demonstrates my skills in data visualization, reporting, and business intelligence.
 
 </div>
 
