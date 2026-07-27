@@ -31,20 +31,25 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 🧰 Technical Skills
 
-### 📊 Data Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 👉 Data Visualization & Reporting
 
-### 🔍 Data Analysis & Querying
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/58/power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/58/microsoft-excel-2019--v1.png" alt="Excel"/>
+</p>
 
-### 🛠️ Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI Service](https://img.shields.io/badge/Power_BI_Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 👉 Programming & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
+  <img src="https://img.icons8.com/color/58/sql.png" alt="SQL"/>
+</p>
+
+### 👉 Version Control & Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode" alt="GitHub, Git and VS Code"/>
+</p>
 
 ---
 
