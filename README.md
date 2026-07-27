@@ -45,8 +45,64 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ### Tools
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI Service](https://img.shields.io/badge/Power%20BI%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<h2>🧰 Technical Skills</h2>
+
+<h3>📊 Data Visualization</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45">
+      <br><strong>Power BI</strong>
+    </td>
+  </tr>
+</table>
+
+<h3>🔍 Data Analysis & Querying</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/sql.png" width="45" height="45">
+      <br><strong>SQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45">
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45">
+      <br><strong>Excel</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/217346" width="45" height="45">
+      <br><strong>Power Query</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/172B4D" width="45" height="45">
+      <br><strong>DAX</strong>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45">
+      <br><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+<h3>🛠️ Tools</h3>
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45">
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45">
+      <br><strong>Power BI Service</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
