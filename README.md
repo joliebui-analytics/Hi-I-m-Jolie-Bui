@@ -33,21 +33,21 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ### 👉 Data Visualization & Reporting
 
-![Power BI Desktop](https://img.shields.io/badge/MICROSOFT-POWER%20BI%20DESKTOP-F2C811?style=for-the-badge&labelColor=454545)
-![Power BI Service](https://img.shields.io/badge/MICROSOFT-POWER%20BI%20SERVICE-F2C811?style=for-the-badge&labelColor=454545)
-![Excel](https://img.shields.io/badge/MICROSOFT-EXCEL-217346?style=for-the-badge&labelColor=454545)
+![Power BI Desktop](https://img.shields.io/badge/POWER%20BI%20DESKTOP-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI Service](https://img.shields.io/badge/POWER%20BI%20SERVICE-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 👉 Databases & Programming
 
-![MySQL](https://img.shields.io/badge/DATABASE-MYSQL-4479A1?style=for-the-badge&labelColor=454545)
-![SQL Server Management Studio](https://img.shields.io/badge/MICROSOFT-SQL%20SERVER%20MANAGEMENT%20STUDIO-CC2927?style=for-the-badge&labelColor=454545)
-![Python](https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&labelColor=454545)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL%20SERVER%20MANAGEMENT%20STUDIO-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 👉 Development & Analysis Tools
 
-![GitHub](https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-181717?style=for-the-badge&labelColor=454545)
-![Visual Studio Code](https://img.shields.io/badge/CODE%20EDITOR-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&labelColor=454545)
-![DAX Studio](https://img.shields.io/badge/ANALYSIS%20TOOL-DAX%20STUDIO-139BAB?style=for-the-badge&labelColor=454545)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![DAX Studio](https://img.shields.io/badge/DAX%20STUDIO-139BAB?style=for-the-badge)
 
 ## 🎯 Analytical & Professional Skills
 
