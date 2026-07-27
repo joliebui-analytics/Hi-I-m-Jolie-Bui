@@ -85,9 +85,6 @@ Credential ID: `C42FAEB6EABB`
 
 ## 📁 Projects
 
-<table>
-<tr>
-
 <td width="33%" align="center">
 
 ### 🍬 Candy Distribution
@@ -138,9 +135,6 @@ Credential ID: `C42FAEB6EABB`
 <a href="YOUR_GITHUB_PROJECT_LINK">Project Files</a>
 
 </td>
-
-</tr>
-</table>
 
 ## 🤝 Let's Connect
 
