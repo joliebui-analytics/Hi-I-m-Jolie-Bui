@@ -90,20 +90,32 @@ Credential ID: `C42FAEB6EABB`
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://img.icons8.com/bubbles/100/linkedin.png"
+    width="65"
+    alt="LinkedIn"
+    title="LinkedIn">
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img
+    src="https://img.icons8.com/bubbles/100/github.png"
+    width="65"
+    alt="GitHub"
+    title="GitHub">
 </a>
 
 <a href="mailto:jolie.phuong05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img
+    src="https://img.icons8.com/bubbles/100/gmail-new.png"
+    width="65"
+    alt="Email"
+    title="Email">
 </a>
 
-<br><br>
+<br>
 
-### Thanks for visiting my profile! 
+### Thanks for visiting my profile! 📊
 
 </div>
 
