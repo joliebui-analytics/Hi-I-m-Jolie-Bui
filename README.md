@@ -21,8 +21,6 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 
 ## 📊 About Me
 
-## 📊 About Me
-
 - 📈 Developing practical skills in data cleaning, transformation, analysis, visualization, and reporting
 - 🛠️ Working with Power BI, SQL, Excel, Power Query, DAX, and Python
 - 📊 Building interactive dashboards, data models, business KPIs, and automated reports
