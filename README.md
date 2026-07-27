@@ -89,14 +89,14 @@ Credential ID: `C42FAEB6EABB`
 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
     <img
-      src="images/candy-dashboard.png"
+      src="Sales_and_Distribution_Overview.png"
       width="48%"
       alt="Supply Chain Shipping Dashboard">
   </a>
 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
     <img
-      src="images/adventure-works-dashboard.png"
+      src="Executive_Overview.png"
       width="48%"
       alt="Adventure Works Dashboard">
   </a>
