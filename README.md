@@ -102,6 +102,42 @@ Credential ID: `C42FAEB6EABB`
 </a>
 
 #### 👉 **[Adventure Works Project](https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard)**
+---
+## 📁 Featured Projects
+
+<p align="center">
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
+    <img
+      src="https://raw.githubusercontent.com/joliebui-analytics/Supply-Chain-Shipping/main/Images/Sales_and_Distribution_Overview.png"
+      width="45%"
+      alt="Supply Chain Shipping Dashboard">
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
+    <img
+      src="https://raw.githubusercontent.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard/main/Images/Executive_Overview.png"
+      width="45%"
+      alt="Adventure Works Dashboard">
+  </a>
+
+</p>
+
+<p align="center">
+
+  👉 <a href="https://github.com/joliebui-analytics/Supply-Chain-Shipping">
+    <strong>Supply Chain Shipping Project</strong>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  👉 <a href="https://github.com/joliebui-analytics/AdventureWorks-PowerBI-Dashboard">
+    <strong>Adventure Works Project</strong>
+  </a>
+
+</p>
 
 ## 🤝 Let's Connect
 
