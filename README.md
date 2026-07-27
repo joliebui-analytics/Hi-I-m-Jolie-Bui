@@ -83,37 +83,35 @@ Credential ID: `C42FAEB6EABB`
 
 [View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
 
-<br>
-
 ## 📁 Featured Projects
 
-### 🍬 Candy Distribution & Shipping Analysis
+### 🍬 Candy Distribution Analysis
 
-Analyzed sales, profitability, shipping distance, factory coverage, and distribution performance using an interactive Power BI dashboard.
+[![Candy Distribution Dashboard](images/candy-dashboard.png)](YOUR_POWER_BI_LINK)
 
-**Tools:** Power BI · SQL · Power Query · DAX · Data Modeling
+**Power BI · SQL · DAX**
 
-[View Project Files](YOUR_GITHUB_PROJECT_LINK) · [View Interactive Dashboard](YOUR_POWER_BI_LINK)
-
----
-
-### 🚲 Adventure Works Sales Analysis
-
-Explored sales, product, customer, and regional performance to identify growth patterns and business opportunities.
-
-**Tools:** Power BI · Power Query · DAX · Data Modeling
-
-[View Project Files](YOUR_GITHUB_PROJECT_LINK) · [View Interactive Dashboard](YOUR_POWER_BI_LINK)
+[View Interactive Dashboard](YOUR_POWER_BI_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
 
 ---
 
-### 👥 Employee Engagement Survey Analysis
+### 🚲 Adventure Works Analysis
 
-Analyzed employee survey responses to identify engagement strengths, performance gaps, and priority areas for leadership action.
+[![Adventure Works Dashboard](images/adventure-works-dashboard.png)](YOUR_POWER_BI_LINK)
 
-**Tools:** Excel · Power Query · Data Cleaning · Data Visualization
+**Power BI · Power Query · DAX**
 
-[View Project Files](YOUR_GITHUB_PROJECT_LINK)
+[View Interactive Dashboard](YOUR_POWER_BI_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
+
+---
+
+### 👥 Employee Engagement Analysis
+
+[![Employee Engagement Dashboard](images/employee-dashboard.png)](YOUR_DASHBOARD_LINK)
+
+**Excel · Power Query · Data Visualization**
+
+[View Dashboard](YOUR_DASHBOARD_LINK) · [View Project](YOUR_GITHUB_PROJECT_LINK)
 
 ## 🤝 Let's Connect
 
