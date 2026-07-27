@@ -83,6 +83,10 @@ Credential ID: `C42FAEB6EABB`
 
 [View Credential](https://www.hackerrank.com/certificates/iframe/c42faeb6eabb)
 
+<br>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="32" align="left">
+
 ### Excel Skills for Business: Intermediate I
 
 **Excel**   
