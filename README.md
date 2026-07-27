@@ -49,16 +49,18 @@ As an aspiring Data Analyst, I have developed practical skills in data cleaning,
 ![Visual Studio Code](https://img.shields.io/badge/CODE%20EDITOR-VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&labelColor=454545)
 ![DAX Studio](https://img.shields.io/badge/ANALYSIS%20TOOL-DAX%20STUDIO-139BAB?style=for-the-badge&labelColor=454545)
 
-### 👉 Analytical & Professional Skills
+## 🎯 Analytical & Professional Skills
 
-![Data Storytelling](https://img.shields.io/badge/ANALYTICS-DATA%20STORYTELLING-139BAB?style=for-the-badge&labelColor=454545)
-![Data Visualization](https://img.shields.io/badge/ANALYTICS-DATA%20VISUALIZATION-6B3FD4?style=for-the-badge&labelColor=454545)
-![Dashboard Design](https://img.shields.io/badge/DESIGN-DASHBOARD%20DESIGN-18AFC3?style=for-the-badge&labelColor=454545)
-![Critical Thinking](https://img.shields.io/badge/THINKING-CRITICAL%20THINKING-35B84A?style=for-the-badge&labelColor=454545)
-![Problem Solving](https://img.shields.io/badge/THINKING-PROBLEM%20SOLVING-E67E22?style=for-the-badge&labelColor=454545)
-![Business Understanding](https://img.shields.io/badge/BUSINESS-BUSINESS%20UNDERSTANDING-4479A1?style=for-the-badge&labelColor=454545)
-![Communication](https://img.shields.io/badge/COMMUNICATION-CLEAR%20COMMUNICATION-C75B7A?style=for-the-badge&labelColor=454545)
-![Attention to Detail](https://img.shields.io/badge/QUALITY-ATTENTION%20TO%20DETAIL-7A5AF8?style=for-the-badge&labelColor=454545)
+- 📊 Data storytelling
+- 🎨 Dashboard design
+- 🧠 Critical thinking
+- 🧩 Problem-solving
+- 💼 Business understanding
+- 🗣️ Clear communication
+- 🔍 Attention to detail
+- 🤝 Collaboration and teamwork
+- ⏱️ Time management
+- 🌱 Continuous learning
 
 ## 📜 Certification
 
