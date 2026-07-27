@@ -86,21 +86,35 @@ Credential ID: `C42FAEB6EABB`
 ## 📁 Featured Projects
 
 <p align="center">
-  <a href="<iframe title="Supply_Chain_Shipping_Project"https://app.powerbi.com/viewr=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
-    <img src="images/candy-dashboard.png" width="32%" alt="Supply Chain Shipping">
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
+    <img
+      src="images/candy-dashboard.png"
+      width="48%"
+      alt="Supply Chain Shipping Dashboard">
   </a>
-  
-  <a href=["YOUR_ADVENTURE_WORKS_LINK"](https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e)>
-    <img src="images/adventure-works-dashboard.png" width="32%" alt="Adventure Works">
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
+    <img
+      src="images/adventure-works-dashboard.png"
+      width="48%"
+      alt="Adventure Works Dashboard">
   </a>
-  
+
 </p>
 
 <p align="center">
-  <a href="YOUR_CANDY_DASHBOARD_LINK"><strong>Candy Distribution</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_ADVENTURE_WORKS_LINK"><strong>Adventure Works</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjU5YmI2MTUtNzhjZC00MDU5LWJhZjUtYzRlZmJjYmEwM2YzIiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9">
+    <strong>Supply Chain Shipping</strong>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzViMDA0YzgtY2JlZi00YTExLWFhM2ItM2U2YTRkOWU0YWM5IiwidCI6ImUzMThjNGEzLTQ4YzYtNGEyYS1iNjg1LTE4Yjc0MDFkYmU5MiJ9&pageName=dc9ab763dc32b99c379e">
+    <strong>Adventure Works</strong>
+  </a>
+
 </p>
 
 ## 🤝 Let's Connect
