@@ -4,9 +4,7 @@
 
 ### Data Visualization Specialist | Data Analyst | Power BI | Excel | SQL | Python 
 
-I enjoy exploring data, uncovering meaningful patterns, and transforming complex information into clear dashboards and practical business insights.
-
-As a Microsoft PL-300 certified professional, I’m building a portfolio that demonstrates my skills in data visualization, reporting, and business intelligence.
+As an aspiring Data Analyst, I have developed practical skills in data cleaning, analysis, visualization, and reporting using Power BI, SQL, and Excel. My portfolio projects focus on transforming raw data into clear dashboards, identifying meaningful trends, and providing practical recommendations for real-world business scenarios. I am eager to apply my analytical skills and fresh perspective in the data analytics field.
 
 </div>
 
